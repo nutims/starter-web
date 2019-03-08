@@ -15,6 +15,8 @@ system.
 
 ## How to Contribute
 
+Pls fork this repository and then issue Pluu Requests for review.
+
 
 Playing football like Pele
 
