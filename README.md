@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work adding a line for rebasing, more changes 
-for my feature branch
+for my feature branch Do an emergency fix after the stash
 
 ## Purpose
 
